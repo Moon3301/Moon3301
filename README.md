@@ -60,21 +60,15 @@ const carlos: Developer = {
 
 ## 📊 GitHub Stats
 
-<!-- 
-  Estas stats usan streak-stats.demolab.com, que es más estable que el servidor público anterior.
-  Si alguna imagen sigue fallando, recarga la página — suele ser caché de GitHub.
--->
-
 <div align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com/?user=Moon3301&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=00d9ff"/>
+<img src="https://streak-stats.demolab.com/?user=Moon3301&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9"/>
 
 </div>
 
 <div align="center">
 
-<!-- github-stats-level: alternativa simple, sin configuración -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moon3301&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Moon3301&theme=tokyonight"/>
 
 </div>
 
@@ -96,34 +90,97 @@ const carlos: Developer = {
 
 ## 🚀 Proyectos Destacados
 
-<!-- 
-  Reemplaza NOMBRE_REPO con el nombre exacto de tu repo público.
-  Ejemplo: si se llama "mi-proyecto", escribe repo=mi-proyecto
--->
-
 <div align="center">
 
-<a href="https://github.com/Moon3301/backend_nestjs_sala1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moon3301&repo=backend_nestjs_sala1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Moon3301/frontend-sala1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moon3301&repo=frontend-sala1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Moon3301/landing-vista-michay">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moon3301&repo=landing-vista-michay&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-</a>
-<a href="https://github.com/Moon3301/landing-page-QRC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moon3301&repo=landing-page-QRC&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Moon3301/landing-page-salmonswim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moon3301&repo=landing-page-salmonswim&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔧 Backend NestJS Sala1</h3>
+      <p align="center">
+        <a href="https://github.com/Moon3301/backend_nestjs_sala1">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+        </a>
+      </p>
+      <p align="center">
+        API REST construida con <strong>NestJS</strong> y <strong>Node.js</strong>.<br/>
+        Arquitectura modular y escalable.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🖥️ Frontend Sala1</h3>
+      <p align="center">
+        <a href="https://github.com/Moon3301/frontend-sala1">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+        </a>
+      </p>
+      <p align="center">
+        Aplicación web desarrollada con <strong>Angular v19</strong>.<br/>
+        UI moderna y reactiva.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏡 Landing Vista Michay</h3>
+      <p align="center">
+        <a href="https://github.com/Moon3301/landing-vista-michay">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+        </a>
+      </p>
+      <p align="center">
+        Landing page profesional para proyecto inmobiliario.<br/>
+        Diseño responsivo y optimizado.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📱 Landing Page QRC</h3>
+      <p align="center">
+        <a href="https://github.com/Moon3301/landing-page-QRC">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+        </a>
+      </p>
+      <p align="center">
+        Landing page para QRC con diseño moderno.<br/>
+        Enfocada en conversión y UX.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" colspan="2">
+      <h3 align="center">🐟 Landing SalmonSwim</h3>
+      <p align="center">
+        <a href="https://github.com/Moon3301/landing-page-salmonswim">
+          <img src="https://img.shields.io/badge/Ver_Repositorio-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+        </a>
+      </p>
+      <p align="center">
+        Landing page para SalmonSwim con diseño atractivo.<br/>
+        Experiencia visual impactante.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
